@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm tin0x 👋
 
-<!--
-**tin0x/tin0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer
 
-Here are some ideas to get you started:
+React · TypeScript · JavaScript · Redux Toolkit · RTK Query
+React Router · React Hook Form · Tailwind CSS · Supabase · Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured Projects
+
+🚀 **Quest Market**
+Store application built with React and TypeScript.
+
+🎵 **Music Pulse Player**
+Music player application built with React and TypeScript.
+
+🌌 **SpaceHub Tracker**
+Space tracking application built with React and TypeScript.
+
+🌞 **Weather Now - Dashboard**
+Weather application built with React and TypeScript.
+
+---
+
+### Architecture
+
+Feature-Sliced Design (FSD)
+
+### Tools
+
+Vite · Git · GitHub · ESLint · Prettier
+
+---
+
+[LinkedIn](#) · [Email](#)
