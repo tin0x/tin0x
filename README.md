@@ -2,15 +2,22 @@
 
 ### Frontend Developer
 
-React · TypeScript · JavaScript · Redux Toolkit · RTK Query React Router · React Hook Form · Tailwind CSS · Supabase ·
-Vercel
+**Core:** React · TypeScript · JavaScript
+
+**State Management:** Redux Toolkit · RTK Query
+
+**Routing & Forms:** React Router · React Hook Form
+
+**UI:** Tailwind CSS, SCSS
+
+**Backend & Deployment:** Supabase · Vercel
 
 ---
 
 ### Featured Projects
 
 <article>
-  <h3>
+  <h4>
     <img
 			style="vertical-align: middle;"
       width="20"
@@ -18,61 +25,61 @@ Vercel
       alt=""
     />
     Quest Market - Store
-  </h3>
+  </h4>
 
   <p>Store application built with React and TypeScript.</p>
 </article>
 
 <article>
-  <h3>
+  <h4>
     <img
-					style="vertical-align: middle;"
+			style="vertical-align: middle;"
       width="20"
       src="./assets/icons/music-pulse-dashboard.svg"
       alt=""
     />
     Music Pulse - Player
-  </h3>
+  </h4>
 
   <p>Store application built with React and TypeScript.</p>
 </article>
 
 <article>
-  <h3>
+  <h4>
     <img
+			style="vertical-align: middle;"
       width="20"
       src="./assets/icons/spacehub-tracker.svg"
       alt=""
     />
     SpaceHub - Tracker
-  </h3>
+  </h4>
 
   <p>Store application built with React and TypeScript.</p>
 </article>
 
 <article>
-  <h3>
+  <h4>
     <img
+			style="vertical-align: middle;"
       width="20"
       src="./assets/icons/weather-now-dashboard.svg"
       alt=""
     />
     Weather Now - Dashboard
-  </h3>
+  </h4>
 
   <p>Store application built with React and TypeScript.</p>
 </article>
 
 ---
 
-### Architecture
+### Architecture & Methodologies
 
-Feature-Sliced Design (FSD)
+Feature-Sliced Design (FSD) · BEM
 
-### Tools
+### Development & Tooling
 
-Vite · Git · GitHub · ESLint · Prettier
+Vite · pnmp · Git · GitHub · ESLint · Prettier
 
 ---
-
-[LinkedIn](#) · [Email](#)
