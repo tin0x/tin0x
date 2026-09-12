@@ -27,7 +27,7 @@
     Quest Market - Store
   </h4>
 
-  <p>Store application built with React and TypeScript.</p>
+  <p>A modern, responsive web application and digital store.</p>
 </article>
 
 <article>
@@ -41,7 +41,7 @@
     Music Pulse - Player
   </h4>
 
-  <p>Store application built with React and TypeScript.</p>
+  <p>A cutting-edge, high-performance music streaming web application.</p>
 </article>
 
 <article>
@@ -55,7 +55,7 @@
     SpaceHub - Tracker
   </h4>
 
-  <p>Store application built with React and TypeScript.</p>
+  <p>A web application for tracking space launches.</p>
 </article>
 
 <article>
@@ -69,7 +69,7 @@
     Weather Now - Dashboard
   </h4>
 
-  <p>Store application built with React and TypeScript.</p>
+  <p>A High-performance weather dashboard.</p>
 </article>
 
 ---
@@ -83,3 +83,9 @@ Feature-Sliced Design (FSD) · BEM
 Vite · pnmp · Git · GitHub · ESLint · Prettier
 
 ---
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alexander-lutsenko-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/tin0x_tg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
