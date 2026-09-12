@@ -2,13 +2,26 @@
 
 ### Frontend Developer
 
+---
+
+### About Me
+
+Frontend Developer focused on building responsive, scalable, and user-friendly web applications.
+
+I enjoy working with modern frontend technologies, clean architecture, and maintainable code. I continuously improve my
+skills through hands-on projects and real-world development experience.
+
+---
+
+### Core Technologies
+
 **Core:** React · TypeScript · JavaScript
 
 **State Management:** Redux Toolkit · RTK Query
 
 **Routing & Forms:** React Router · React Hook Form
 
-**UI:** Tailwind CSS, SCSS
+**UI:** Tailwind CSS · SCSS
 
 **Backend & Deployment:** Supabase · Vercel
 
@@ -69,7 +82,7 @@
     Weather Now - Dashboard
   </h4>
 
-  <p>A High-performance weather dashboard.</p>
+  <p>A high-performance weather dashboard.</p>
 </article>
 
 ---
@@ -84,7 +97,7 @@ Vite · pnpm · Git · GitHub · ESLint · Prettier
 
 ---
 
-### Feedback
+### Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alexander-lutsenko-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
