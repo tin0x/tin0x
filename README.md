@@ -32,7 +32,6 @@ skills through hands-on projects and real-world development experience.
 <article>
   <h4>
     <img
-			style="vertical-align: middle;"
       width="20"
       src="./assets/icons/quest-market-store.svg"
       alt=""
@@ -46,7 +45,6 @@ skills through hands-on projects and real-world development experience.
 <article>
   <h4>
     <img
-			style="vertical-align: middle;"
       width="20"
       src="./assets/icons/music-pulse-dashboard.svg"
       alt=""
@@ -60,7 +58,6 @@ skills through hands-on projects and real-world development experience.
 <article>
   <h4>
     <img
-			style="vertical-align: middle;"
       width="20"
       src="./assets/icons/spacehub-tracker.svg"
       alt=""
@@ -74,7 +71,6 @@ skills through hands-on projects and real-world development experience.
 <article>
   <h4>
     <img
-			style="vertical-align: middle;"
       width="20"
       src="./assets/icons/weather-now-dashboard.svg"
       alt=""
