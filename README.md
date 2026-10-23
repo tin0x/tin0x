@@ -36,7 +36,7 @@ skills through hands-on projects and real-world development experience.
       src="./assets/icons/quest-market-store.svg"
       align="center"
       alt=""
-    />
+    />&nbsp;
     Quest Market - Store
   </h4>
 
@@ -64,7 +64,7 @@ skills through hands-on projects and real-world development experience.
       src="./assets/icons/spacehub-tracker.svg"
       align="center"
       alt=""
-    />
+    />&nbsp;
     SpaceHub - Tracker
   </h4>
 
@@ -78,7 +78,7 @@ skills through hands-on projects and real-world development experience.
       src="./assets/icons/weather-now-dashboard.svg"
       align="center"
       alt=""
-    />
+    />&nbsp;
     Weather Now - Dashboard
   </h4>
 
