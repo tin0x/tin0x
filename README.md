@@ -32,7 +32,7 @@ skills through hands-on projects and real-world development experience.
 <article>
   <h4>
     <img
-      width="20"
+      width="18"
       src="./assets/icons/quest-market-store.svg"
       align="center"
       alt=""
@@ -46,7 +46,7 @@ skills through hands-on projects and real-world development experience.
 <article>
   <h4>
     <img
-      width="20"
+      width="18"
       src="./assets/icons/music-pulse-dashboard.svg"
       align="center"
       alt=""
