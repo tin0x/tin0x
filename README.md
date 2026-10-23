@@ -35,7 +35,6 @@ skills through hands-on projects and real-world development experience.
       width="20"
       src="./assets/icons/quest-market-store.svg"
       align="center"
-      style="margin-right: 8px;"
       alt=""
     />
     Quest Market - Store
@@ -50,9 +49,8 @@ skills through hands-on projects and real-world development experience.
       width="20"
       src="./assets/icons/music-pulse-dashboard.svg"
       align="center"
-      style="margin-right: 8px;"
       alt=""
-    />
+    />&nbsp;
     Music Pulse - Player
   </h4>
 
